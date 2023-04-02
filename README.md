@@ -1,2 +1,2 @@
 # calculadora
-Criando calculadora simples feito no curso
+Criando calculadora simples feito no curso on bit code
